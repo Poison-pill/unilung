@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="node05" remoteFilesAllowedToDisappearOnAutoupload="false" autoUploadExternalChanges="true">
+    <serverData>
+      <paths name="gpu02">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/public8/lilab/student/fjwu/py" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="node01">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/public8/lilab/student/fjwu/py" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="node01 (1)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/public8/lilab/student/fjwu/py" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="node02">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/public8/lilab/student/fjwu/py" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="node02 (1)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/public8/lilab/student/fjwu/py" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="node02 (2)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/public8/lilab/student/fjwu/py" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="node04">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/public8/lilab/student/fjwu/py" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="node04 (1)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/public8/lilab/student/fjwu/py" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="node04 (2)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/public8/lilab/student/fjwu/py" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="node05">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/public8/lilab/student/fjwu/py" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="node05 (1)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/public8/lilab/student/fjwu/py" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="node05 (2)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/public8/lilab/student/fjwu/py" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="node05 (3)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/public8/lilab/student/fjwu/py" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
